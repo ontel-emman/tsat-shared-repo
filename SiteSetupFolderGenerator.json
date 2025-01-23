@@ -1,0 +1,595 @@
+{
+    "projects" : {
+        "BAWA - Embedded" : [
+            {
+                "Root" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-FinalInspctn"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Day 1 COP"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Day 1 COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-CBRSSerialPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-AntConnPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-AntSmrtLvlPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-GrndRsistvtyTest"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-OtherPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Pwr&FbrPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RRHConnPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-SerialPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Misc"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Misc",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Sweeps"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Misc",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-PIM"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Approved Shop Drawings"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Base & During Installation Photos"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Certification Signatures"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Packing Slips"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Gamma"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Ground Level"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Height Verification"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Photos of climbing facility and safety climb"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos",
+                        "Path" : "Gamma"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos",
+                        "Path" : "Ground Level"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos",
+                        "Path" : "Height Verification"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Pre-Installation Photos",
+                        "Path" : "Photos of climbing facility and safety climb"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Specific Required Additional Photos"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RFMit"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-RFMit",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RFMitPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Rgltry"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Rgltry",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-HrznPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Rgltry",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-TapeDropPics"
+                    }
+                ]
+            },
+            {
+                "Root" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-HrznPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-SerialPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-TapeDropPics"
+                    }
+                ]
+            }
+        ],
+        "BAWA - NSB Macro" : [
+	{
+                "Root" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-FinalInspctn"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-AntConnPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-AntSmrtLvlPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-GrndRsistvtyTest"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-OtherPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Pwr&FbrPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RRHConnPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Misc"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Approved Shop Drawings"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Base & During Installation Photos"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Certification Signatures"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Packing Slips"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Gamma"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Ground Level"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Height Verification"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP//COP-[[SiteName]]-[[Fuze ID]]-Post-Installation Photos",
+                        "Path" : "Photos of climbing facility and safety climb"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-PMI COP",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Specific Required Additional Photos"
+                    }
+	        ]
+            },
+            {
+                "Root" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-HrznPics"
+                    },
+    		    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RFMit"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-RFMit",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RFMitPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-SerialPics"
+                    },
+ 		    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-PIM"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Sweeps"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-48Hr COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-TapeDropPics"
+                    }
+                ]
+            }
+
+	],
+        "BAWA - Small Cell" : [
+	{
+                "Root" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-FinalInspctn"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-AntConnPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-AntSmrtLvlPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-GrndRsistvtyTest"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-OtherPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Pwr&FbrPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RRHConnPics"
+                    },
+		    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-CmptPics",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-SerialPics"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Misc"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RFMit"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-RFMit",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RFMitPics"
+                    },
+		    {
+     			"Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-P&S-48Hr"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-P&S-48Hr",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Sweeps"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-P&S-48Hr",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-RET"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-P&S-48Hr",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-PIM"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-P&S-48Hr",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Fiber"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-Rgltry"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Rgltry",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-HrznPics"
+                    },
+                    {
+                        "Parent" : "COP-[[SiteName]]-[[Fuze ID]]-Rgltry",
+                        "Path" : "COP-[[SiteName]]-[[Fuze ID]]-TapeDropPics"
+                    }
+                ]
+            }
+	],
+        "FL - Embedded" : [
+	{
+                "Root" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                        "Path" : "CCOP [[Fuze ID]]- [[Fuze ID]]_[[SiteName]]"
+                    },
+		    {
+                        "Parent" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                        "Path" : "[[SiteName]] RET Files"
+                    },
+                    {
+                        "Parent" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                        "Path" : "[[SiteName]] Fiber Files"
+                    },
+		    {
+                        "Parent" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                        "Path" : "[[SiteName]] AAT Report"
+                    },
+                    {
+                        "Parent" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                        "Path" : "[[SiteName]] Sub6 Photos"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Assets"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Gamma"
+                    },
+ 		    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Ground"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Delta"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Top"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Cabinet"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Pre-Con"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] Sub6 Photos",
+                        "Path" : "Mount"
+                    },
+                    {
+                        "Parent" : "Final COP-[[SiteName]]-[[Fuze ID]]-Date",
+                        "Path" : "[[SiteName]] [[PSLC]] PMI COP"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP",
+                        "Path" : "Additional Photos"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP",
+                        "Path" : "As Built Drawings"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP",
+                        "Path" : "Base & During Installation Photos"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP",
+                        "Path" : "Certifications"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP",
+                        "Path" : "Post Installation Photos"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Gamma"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Delta"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Ground Level"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Height Verification"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Post Installation Photos",
+                        "Path" : "Safety Climb"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP",
+                        "Path" : "Pre Installation Photos"
+		    },
+		    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Pre Installation Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Pre Installation Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Pre Installation Photos",
+                        "Path" : "Gamma"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] [[PSLC]] PMI COP//Pre Installation Photos",
+                        "Path" : "Ground Level"
+		    }
+                ]
+            }
+
+	],
+        "FL - Macro" : [
+	{
+                "Root" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                "Folders" : [
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "[[SiteName]] - PIM and Sweep Package"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] - PIM and Sweep Package",
+                        "Path" : "[[SiteName]] - PIM Files"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] - PIM and Sweep Package",
+                        "Path" : "[[SiteName]] - Sweep Files"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "[[SiteName]] - Closeout Photos"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Alpha"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Assets"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Beta"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Gamma"
+                    },
+ 		    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Ground"
+                    },
+                    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Signage"
+                    },
+		    {
+                        "Parent" : "[[SiteName]] - Closeout Photos",
+                        "Path" : "Tower Top"
+                    },
+                    {
+                        "Parent" : "[[SiteName]]-[[Fuze ID]]-Final COP-Date",
+                        "Path" : "[[SiteName]] - Compliance Photos"
+                    }
+                ]                
+            }
+	]
+     }
+}
